@@ -1,2 +1,2 @@
-# lizzwestman.gihub.io
+# lizzwestman.github.io
 attempt at pages
